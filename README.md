@@ -19,6 +19,8 @@ A list of common acronyms and jargon used in the world of technology.
 # List of Tech Lingo
 
 ## A
+* AI - Artificial Intelligence
+* ANN - Artificial Neural Network
 * API - Application Programming Interface
 * ASIC - Application-Specific Integrated Circuit
 
@@ -38,11 +40,14 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## G
 * GNU - GNU's Not Unix! 
+* GPT - Generative Pre-trained Transformer
 * GPU - Graphics Processing Unit
 * GUI - Graphical User Interface
 
 ## H
 * HTML - Hypertext Markup Language
+* HTTP - Hypertext Transfer Protocol
+* HTTPS - Hypertext Transfer Protocol Secure
 
 ## I
 
@@ -52,14 +57,18 @@ A list of common acronyms and jargon used in the world of technology.
 ## K
 
 ## L
+* LLM - Large Language Model
 
 ## M
+* ML - Machine Learning
 
 ## N
+* NN - Neural Network
 
 ## O
 
 ## P
+* PHP - PHP: Hypertext Preprocessor
 
 ## Q
 
