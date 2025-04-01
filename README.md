@@ -45,6 +45,7 @@ A list of common acronyms and jargon used in the world of technology.
 * GUI - Graphical User Interface
 
 ## H
+* HDD - Hard Disk Drive
 * HTML - Hypertext Markup Language
 * HTTP - Hypertext Transfer Protocol
 * HTTPS - Hypertext Transfer Protocol Secure
@@ -52,7 +53,9 @@ A list of common acronyms and jargon used in the world of technology.
 ## I
 
 ## J
+* JS - JavaScript
 * JSON - JavaScript Object Notation
+* JSX - JavaScript XML
 
 ## K
 
@@ -69,12 +72,15 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## P
 * PHP - PHP: Hypertext Preprocessor
+* PR - Pull Request
 
 ## Q
 
 ## R
+* RAM - Random-Access Memory
 
 ## S
+* SSD - Solid-State Drive
 
 ## T
 
