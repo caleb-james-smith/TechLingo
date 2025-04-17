@@ -23,10 +23,12 @@ A list of common acronyms and jargon used in the world of technology.
 * ANN - Artificial Neural Network
 * API - Application Programming Interface
 * ASIC - Application-Specific Integrated Circuit
+* AWS - Amazon Web Services
 
 ## B
 
 ## C
+* CI/CD - Continuous Integration / Continuous Delivery
 * CLI - Command-Line Interface
 * CPU - Central Processing Unit
 * CSS - Cascading Style Sheets
@@ -80,6 +82,7 @@ A list of common acronyms and jargon used in the world of technology.
 * RAM - Random-Access Memory
 
 ## S
+* SDLC - Systems Development Life Cycle
 * SSD - Solid-State Drive
 
 ## T
