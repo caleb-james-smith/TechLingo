@@ -26,6 +26,7 @@ A list of common acronyms and jargon used in the world of technology.
 * AWS - Amazon Web Services
 
 ## B
+* BASH - Bourne Again Shell
 
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
@@ -34,6 +35,11 @@ A list of common acronyms and jargon used in the world of technology.
 * CSS - Cascading Style Sheets
 
 ## D
+* DDoS - Distributed Denial-of-Service
+* DNS - Domain Name System
+* DoS - Denial-of-Service
+* DOS - Disk Operating System
+* DSL - Digital Subscriber Line
 
 ## E
 
@@ -42,6 +48,7 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## G
 * GNU - GNU's Not Unix! 
+* GPS - Global Positioning System
 * GPT - Generative Pre-trained Transformer
 * GPU - Graphics Processing Unit
 * GUI - Graphical User Interface
@@ -53,6 +60,8 @@ A list of common acronyms and jargon used in the world of technology.
 * HTTPS - Hypertext Transfer Protocol Secure
 
 ## I
+* IP - Internet Protocol
+* ISP - Internet Service Provider
 
 ## J
 * JS - JavaScript
@@ -73,6 +82,7 @@ A list of common acronyms and jargon used in the world of technology.
 ## O
 
 ## P
+* PC - Personal Computer
 * PHP - PHP: Hypertext Preprocessor
 * PR - Pull Request
 
@@ -84,11 +94,17 @@ A list of common acronyms and jargon used in the world of technology.
 ## S
 * SDLC - Systems Development Life Cycle
 * SSD - Solid-State Drive
+* SSH - Secure Shell
+* SSL - Secure Sockets Layer
+* SSO - Single Sign-On
 
 ## T
+* TCP - Transmission Control Protocol
+* TLS - Transport Layer Security
 
 ## U
 * UI - User Interface
+* URL - Uniform Resource Locator
 * UX - User Experience
 
 ## V
