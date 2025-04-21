@@ -37,6 +37,7 @@ A list of common acronyms and jargon used in the world of technology.
 ## D
 * DDoS - Distributed Denial-of-Service
 * DNS - Domain Name System
+* DOM - Document Object Model
 * DoS - Denial-of-Service
 * DOS - Disk Operating System
 * DSL - Digital Subscriber Line
@@ -93,6 +94,7 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## S
 * SDLC - Systems Development Life Cycle
+* SEO - Search Engine Optimization
 * SSD - Solid-State Drive
 * SSH - Secure Shell
 * SSL - Secure Sockets Layer
