@@ -40,6 +40,7 @@ A list of common acronyms and jargon used in the world of technology.
 * DOM - Document Object Model
 * DoS - Denial-of-Service
 * DOS - Disk Operating System
+* DP - DisplayPort
 * DSL - Digital Subscriber Line
 
 ## E
@@ -56,6 +57,7 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## H
 * HDD - Hard Disk Drive
+* HDMI - High-Definition Multimedia Interface
 * HTML - Hypertext Markup Language
 * HTTP - Hypertext Transfer Protocol
 * HTTPS - Hypertext Transfer Protocol Secure
@@ -91,6 +93,7 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## R
 * RAM - Random-Access Memory
+* REST - Representational State Transfer
 
 ## S
 * SDLC - Systems Development Life Cycle
@@ -107,6 +110,7 @@ A list of common acronyms and jargon used in the world of technology.
 ## U
 * UI - User Interface
 * URL - Uniform Resource Locator
+* USB - Universal Serial Bus
 * UX - User Experience
 
 ## V
