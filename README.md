@@ -105,12 +105,15 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## T
 * TCP - Transmission Control Protocol
+* TLD - Top-Level Domain
 * TLS - Transport Layer Security
 
 ## U
 * UI - User Interface
 * URL - Uniform Resource Locator
 * USB - Universal Serial Bus
+* UTF - Unicode Transformation Format
+* UTF-8 - Unicode Transformation Format - 8-bit
 * UX - User Experience
 
 ## V
