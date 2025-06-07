@@ -97,6 +97,7 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## R
 * RAM - Random-Access Memory
+* REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
 
 ## S
@@ -106,6 +107,7 @@ A list of common acronyms and jargon used in the world of technology.
 * SSH - Secure Shell
 * SSL - Secure Sockets Layer
 * SSO - Single Sign-On
+* SVG - Scalable Vector Graphics
 
 ## T
 * TCP - Transmission Control Protocol
