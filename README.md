@@ -49,6 +49,7 @@ A list of common acronyms and jargon used in the world of technology.
 * FPGA - Field-Programmable Gate Array
 
 ## G
+* GIF - Graphics Interchange Format
 * GNU - GNU's Not Unix! 
 * GPS - Global Positioning System
 * GPT - Generative Pre-trained Transformer
@@ -67,6 +68,7 @@ A list of common acronyms and jargon used in the world of technology.
 * ISP - Internet Service Provider
 
 ## J
+* JPEG - Joint Photographic Experts Group
 * JS - JavaScript
 * JSON - JavaScript Object Notation
 * JSX - JavaScript XML
@@ -86,7 +88,9 @@ A list of common acronyms and jargon used in the world of technology.
 
 ## P
 * PC - Personal Computer
+* PDF - Portable Document Format
 * PHP - PHP: Hypertext Preprocessor
+* PNG - Portable Network Graphics
 * PR - Pull Request
 
 ## Q
@@ -107,6 +111,7 @@ A list of common acronyms and jargon used in the world of technology.
 * TCP - Transmission Control Protocol
 * TLD - Top-Level Domain
 * TLS - Transport Layer Security
+* TTL - Time To Live
 
 ## U
 * UI - User Interface
