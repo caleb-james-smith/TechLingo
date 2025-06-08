@@ -18,6 +18,9 @@ A list of common acronyms and jargon used in the world of technology.
 
 # List of Tech Lingo
 
+## 0-9
+* 2FA - Two-Factor Authentication
+
 ## A
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
@@ -64,6 +67,7 @@ A list of common acronyms and jargon used in the world of technology.
 * HTTPS - Hypertext Transfer Protocol Secure
 
 ## I
+* IDE - Integrated Development Environment
 * IP - Internet Protocol
 * ISP - Internet Service Provider
 
@@ -79,6 +83,7 @@ A list of common acronyms and jargon used in the world of technology.
 * LLM - Large Language Model
 
 ## M
+* MFA - Multi-Factor Authentication
 * ML - Machine Learning
 
 ## N
