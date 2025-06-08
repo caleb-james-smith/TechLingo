@@ -25,6 +25,7 @@ A list of common acronyms and jargon used in the world of technology.
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
 * API - Application Programming Interface
+* ASCII - American Standard Code for Information Interchange
 * ASIC - Application-Specific Integrated Circuit
 * AWS - Amazon Web Services
 
@@ -34,6 +35,7 @@ A list of common acronyms and jargon used in the world of technology.
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
 * CLI - Command-Line Interface
+* CNN - Convolutional Neural Network
 * CPU - Central Processing Unit
 * CSS - Cascading Style Sheets
 
@@ -67,6 +69,7 @@ A list of common acronyms and jargon used in the world of technology.
 * HTTPS - Hypertext Transfer Protocol Secure
 
 ## I
+* I2C - Inter-Integrated Circuit
 * IDE - Integrated Development Environment
 * IP - Internet Protocol
 * ISP - Internet Service Provider
