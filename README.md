@@ -1,6 +1,36 @@
 # TechLingo
 
-A list of common acronyms and jargon used in the world of technology.
+A list of common acronyms and abbreviations used in the world of technology.
+
+## How to use
+
+The acronyms and abbreviations are alphabetized on this page.
+Use *ctrl+f* or *command+f* to search this page for the acronym or abbreviation you want to find.
+
+To clone this repository to your computer, use the following terminal command from a directory of your choice:
+```
+git clone https://github.com/caleb-james-smith/TechLingo.git
+```
+
+Then, you may enter the directory and search the `README.md` file from the command line using grep:
+```
+cd TechLingo
+grep ABC README.md
+```
+where `ABC` is the acronym or abbreviation you wish to find.
+
+If a relevant acronym is not listed, please add it when you figure out what it means!
+For instructions, see the next section.
+
+## How to contribute
+
+Contributing to this document is the best way to make it more effective.
+
+If you want to add something, follow this procedure:
+
+* Fork the repository.
+* Edit the `README.md` to add acronyms and descriptions; please use alphabetical order!
+* Submit a pull request.
 
 # Examples
 
