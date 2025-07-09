@@ -55,17 +55,20 @@ If you want to add something, follow this procedure:
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
 * API - Application Programming Interface
+* ARPANET - Advanced Research Projects Agency Network
 * ASCII - American Standard Code for Information Interchange
 * ASIC - Application-Specific Integrated Circuit
 * AWS - Amazon Web Services
 
 ## B
 * BASH - Bourne Again Shell
+* BSD - Berkeley Software Distribution
 
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
 * CLI - Command-Line Interface
 * CNN - Convolutional Neural Network
+* COBOL - Common Business-Oriented Language
 * CPU - Central Processing Unit
 * CSS - Cascading Style Sheets
 
