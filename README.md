@@ -62,6 +62,7 @@ If you want to add something, follow this procedure:
 
 ## B
 * BASH - Bourne Again Shell
+* BASIC - Beginners' All-purpose Symbolic Instruction Code
 * BSD - Berkeley Software Distribution
 
 ## C
@@ -103,7 +104,10 @@ If you want to add something, follow this procedure:
 
 ## I
 * I2C - Inter-Integrated Circuit
+* IANA - Internet Assigned Numbers Authority
+* ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
+* IETF - Internet Engineering Task Force
 * IP - Internet Protocol
 * ISP - Internet Service Provider
 
@@ -116,6 +120,7 @@ If you want to add something, follow this procedure:
 ## K
 
 ## L
+* LAN - Local Area Network
 * LLM - Large Language Model
 
 ## M
@@ -126,6 +131,7 @@ If you want to add something, follow this procedure:
 * NN - Neural Network
 
 ## O
+* OS - Operating System
 
 ## P
 * PC - Personal Computer
@@ -167,6 +173,9 @@ If you want to add something, follow this procedure:
 ## V
 
 ## W
+* W3C - World Wide Web Consortium
+* WAN - Wide Area Network
+* WHATWG - Web Hypertext Application Technology Working Group
 * WWW - World Wide Web
 
 ## X
