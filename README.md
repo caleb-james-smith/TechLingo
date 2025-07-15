@@ -110,6 +110,7 @@ If you want to add something, follow this procedure:
 * IETF - Internet Engineering Task Force
 * IP - Internet Protocol
 * ISP - Internet Service Provider
+* IT - Information Technology
 
 ## J
 * JPEG - Joint Photographic Experts Group
