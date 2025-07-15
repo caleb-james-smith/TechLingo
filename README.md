@@ -55,17 +55,21 @@ If you want to add something, follow this procedure:
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
 * API - Application Programming Interface
+* ARPANET - Advanced Research Projects Agency Network
 * ASCII - American Standard Code for Information Interchange
 * ASIC - Application-Specific Integrated Circuit
 * AWS - Amazon Web Services
 
 ## B
 * BASH - Bourne Again Shell
+* BASIC - Beginners' All-purpose Symbolic Instruction Code
+* BSD - Berkeley Software Distribution
 
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
 * CLI - Command-Line Interface
 * CNN - Convolutional Neural Network
+* COBOL - Common Business-Oriented Language
 * CPU - Central Processing Unit
 * CSS - Cascading Style Sheets
 
@@ -100,9 +104,13 @@ If you want to add something, follow this procedure:
 
 ## I
 * I2C - Inter-Integrated Circuit
+* IANA - Internet Assigned Numbers Authority
+* ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
+* IETF - Internet Engineering Task Force
 * IP - Internet Protocol
 * ISP - Internet Service Provider
+* IT - Information Technology
 
 ## J
 * JPEG - Joint Photographic Experts Group
@@ -113,6 +121,7 @@ If you want to add something, follow this procedure:
 ## K
 
 ## L
+* LAN - Local Area Network
 * LLM - Large Language Model
 
 ## M
@@ -123,6 +132,7 @@ If you want to add something, follow this procedure:
 * NN - Neural Network
 
 ## O
+* OS - Operating System
 
 ## P
 * PC - Personal Computer
@@ -164,6 +174,9 @@ If you want to add something, follow this procedure:
 ## V
 
 ## W
+* W3C - World Wide Web Consortium
+* WAN - Wide Area Network
+* WHATWG - Web Hypertext Application Technology Working Group
 * WWW - World Wide Web
 
 ## X
