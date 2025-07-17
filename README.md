@@ -71,6 +71,7 @@ If you want to add something, follow this procedure:
 * CNN - Convolutional Neural Network
 * COBOL - Common Business-Oriented Language
 * CPU - Central Processing Unit
+* CS - Computer Science
 * CSS - Cascading Style Sheets
 
 ## D
@@ -127,6 +128,7 @@ If you want to add something, follow this procedure:
 ## M
 * MFA - Multi-Factor Authentication
 * ML - Machine Learning
+* MVP - Minimum Viable Product
 
 ## N
 * NN - Neural Network
@@ -149,6 +151,7 @@ If you want to add something, follow this procedure:
 * REST - Representational State Transfer
 
 ## S
+* SDK - Software Development Kit
 * SDLC - Systems Development Life Cycle
 * SEO - Search Engine Optimization
 * SSD - Solid-State Drive
@@ -156,8 +159,10 @@ If you want to add something, follow this procedure:
 * SSL - Secure Sockets Layer
 * SSO - Single Sign-On
 * SVG - Scalable Vector Graphics
+* SWE - Software Engineer
 
 ## T
+* TC - Total Compensation
 * TCP - Transmission Control Protocol
 * TLD - Top-Level Domain
 * TLS - Transport Layer Security
@@ -183,6 +188,7 @@ If you want to add something, follow this procedure:
 * XML - Extensible Markup Language 
 
 ## Y
+* YC - Y Combinator
 
 ## Z
 
