@@ -68,13 +68,17 @@ If you want to add something, follow this procedure:
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
 * CLI - Command-Line Interface
+* CMS - Content Management System
 * CNN - Convolutional Neural Network
 * COBOL - Common Business-Oriented Language
 * CPU - Central Processing Unit
+* CRUD - Create, Read, Update, and Delete
 * CS - Computer Science
 * CSS - Cascading Style Sheets
 
 ## D
+* DB - Database
+* DBMS - Database Management System
 * DDoS - Distributed Denial-of-Service
 * DNS - Domain Name System
 * DOM - Document Object Model
@@ -109,6 +113,7 @@ If you want to add something, follow this procedure:
 * ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
 * IETF - Internet Engineering Task Force
+* IoT - Internet of Things
 * IP - Internet Protocol
 * ISP - Internet Service Provider
 * IT - Information Technology
@@ -123,11 +128,13 @@ If you want to add something, follow this procedure:
 
 ## L
 * LAN - Local Area Network
+* LLC - Limited Liability Company
 * LLM - Large Language Model
 
 ## M
 * MFA - Multi-Factor Authentication
 * ML - Machine Learning
+* MVC - Model-View-Controller
 * MVP - Minimum Viable Product
 
 ## N
@@ -158,6 +165,7 @@ If you want to add something, follow this procedure:
 * SSH - Secure Shell
 * SSL - Secure Sockets Layer
 * SSO - Single Sign-On
+* STEM - Science, Technology, Engineering, and Mathematics
 * SVG - Scalable Vector Graphics
 * SWE - Software Engineer
 
@@ -182,6 +190,7 @@ If you want to add something, follow this procedure:
 * W3C - World Wide Web Consortium
 * WAN - Wide Area Network
 * WHATWG - Web Hypertext Application Technology Working Group
+* WSL - Windows Subsystem for Linux
 * WWW - World Wide Web
 
 ## X
