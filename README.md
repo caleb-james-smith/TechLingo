@@ -154,6 +154,7 @@ If you want to add something, follow this procedure:
 
 ## R
 * RAM - Random-Access Memory
+* RDBMS - Relational Database Management System
 * REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
 
@@ -161,6 +162,7 @@ If you want to add something, follow this procedure:
 * SDK - Software Development Kit
 * SDLC - Systems Development Life Cycle
 * SEO - Search Engine Optimization
+* SQL - Structured Query Language
 * SSD - Solid-State Drive
 * SSH - Secure Shell
 * SSL - Secure Sockets Layer
