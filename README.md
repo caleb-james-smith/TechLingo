@@ -63,6 +63,7 @@ If you want to add something, follow this procedure:
 ## B
 * BASH - Bourne Again Shell
 * BASIC - Beginners' All-purpose Symbolic Instruction Code
+* BI - Business Intelligence
 * BSD - Berkeley Software Distribution
 
 ## C
@@ -113,6 +114,7 @@ If you want to add something, follow this procedure:
 * ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
 * IETF - Internet Engineering Task Force
+* IO - Input/Output (I/O)
 * IoT - Internet of Things
 * IP - Internet Protocol
 * ISP - Internet Service Provider
@@ -123,6 +125,7 @@ If you want to add something, follow this procedure:
 * JS - JavaScript
 * JSON - JavaScript Object Notation
 * JSX - JavaScript XML
+* JWT - JSON Web Token
 
 ## K
 
@@ -148,6 +151,7 @@ If you want to add something, follow this procedure:
 * PDF - Portable Document Format
 * PHP - PHP: Hypertext Preprocessor
 * PNG - Portable Network Graphics
+* PoC - Proof of Concept
 * PR - Pull Request
 
 ## Q
@@ -187,6 +191,7 @@ If you want to add something, follow this procedure:
 * UX - User Experience
 
 ## V
+* VPN - Virtual Private Network
 
 ## W
 * W3C - World Wide Web Consortium
