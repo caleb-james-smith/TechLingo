@@ -55,6 +55,7 @@ If you want to add something, follow this procedure:
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
 * API - Application Programming Interface
+* AR - Augmented Reality
 * ARPANET - Advanced Research Projects Agency Network
 * ASCII - American Standard Code for Information Interchange
 * ASIC - Application-Specific Integrated Circuit
@@ -63,33 +64,45 @@ If you want to add something, follow this procedure:
 ## B
 * BASH - Bourne Again Shell
 * BASIC - Beginners' All-purpose Symbolic Instruction Code
+* BI - Business Intelligence
 * BSD - Berkeley Software Distribution
 
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
 * CLI - Command-Line Interface
+* CMS - Content Management System
 * CNN - Convolutional Neural Network
 * COBOL - Common Business-Oriented Language
 * CPU - Central Processing Unit
+* CRUD - Create, Read, Update, and Delete
+* CS - Computer Science
 * CSS - Cascading Style Sheets
+* CSV - Comma-Separated Values
 
 ## D
+* DB - Database
+* DBMS - Database Management System
 * DDoS - Distributed Denial-of-Service
 * DNS - Domain Name System
 * DOM - Document Object Model
 * DoS - Denial-of-Service
 * DOS - Disk Operating System
 * DP - DisplayPort
+* DRY - Don't Repeat Yourself
 * DSL - Digital Subscriber Line
 
 ## E
 
 ## F
+* FAQ - Frequently Asked Questions
 * FPGA - Field-Programmable Gate Array
+* FSF - Free Software Foundation
 
 ## G
 * GIF - Graphics Interchange Format
 * GNU - GNU's Not Unix! 
+* GNU GPL - GNU General Public License
+* GPL - GNU General Public License
 * GPS - Global Positioning System
 * GPT - Generative Pre-trained Transformer
 * GPU - Graphics Processing Unit
@@ -101,6 +114,7 @@ If you want to add something, follow this procedure:
 * HTML - Hypertext Markup Language
 * HTTP - Hypertext Transfer Protocol
 * HTTPS - Hypertext Transfer Protocol Secure
+* HUD - Head-Up Display
 
 ## I
 * I2C - Inter-Integrated Circuit
@@ -108,6 +122,8 @@ If you want to add something, follow this procedure:
 * ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
 * IETF - Internet Engineering Task Force
+* IO - Input/Output (I/O)
+* IoT - Internet of Things
 * IP - Internet Protocol
 * ISP - Internet Service Provider
 * IT - Information Technology
@@ -117,49 +133,69 @@ If you want to add something, follow this procedure:
 * JS - JavaScript
 * JSON - JavaScript Object Notation
 * JSX - JavaScript XML
+* JWT - JSON Web Token
 
 ## K
 
 ## L
 * LAN - Local Area Network
+* LLC - Limited Liability Company
 * LLM - Large Language Model
+* LTS - Long-Term Support
 
 ## M
+* MDN - Mozilla Developer Network
 * MFA - Multi-Factor Authentication
 * ML - Machine Learning
+* MR - Mixed Reality
+* MVC - Model-View-Controller
+* MVP - Minimum Viable Product
 
 ## N
+* NLP - Natural Language Processing
 * NN - Neural Network
 
 ## O
+* OOP - Object-Oriented Programming
+* ORM - Object-Relational Mapping
 * OS - Operating System
+* OSS - Open-Source Software
 
 ## P
 * PC - Personal Computer
 * PDF - Portable Document Format
 * PHP - PHP: Hypertext Preprocessor
 * PNG - Portable Network Graphics
+* PoC - Proof of Concept
 * PR - Pull Request
 
 ## Q
 
 ## R
 * RAM - Random-Access Memory
+* RDBMS - Relational Database Management System
 * REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
+* RTFM - Read The Freaking Manual
 
 ## S
+* SDK - Software Development Kit
 * SDLC - Systems Development Life Cycle
 * SEO - Search Engine Optimization
+* SQL - Structured Query Language
 * SSD - Solid-State Drive
 * SSH - Secure Shell
 * SSL - Secure Sockets Layer
 * SSO - Single Sign-On
+* STEM - Science, Technology, Engineering, and Mathematics
 * SVG - Scalable Vector Graphics
+* SWE - Software Engineer
 
 ## T
+* TC - Total Compensation
 * TCP - Transmission Control Protocol
 * TLD - Top-Level Domain
+* TL;DR - Too Long; Didn't Read
 * TLS - Transport Layer Security
 * TTL - Time To Live
 
@@ -172,17 +208,24 @@ If you want to add something, follow this procedure:
 * UX - User Experience
 
 ## V
+* VC - Venture Capital
+* VGA - Video Graphics Array
+* VM - Virtual Machine
+* VPN - Virtual Private Network
+* VR - Virtual Reality
 
 ## W
 * W3C - World Wide Web Consortium
 * WAN - Wide Area Network
 * WHATWG - Web Hypertext Application Technology Working Group
+* WSL - Windows Subsystem for Linux
 * WWW - World Wide Web
 
 ## X
 * XML - Extensible Markup Language 
 
 ## Y
+* YC - Y Combinator
 
 ## Z
 
