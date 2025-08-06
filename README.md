@@ -176,6 +176,7 @@ If you want to add something, follow this procedure:
 * RDBMS - Relational Database Management System
 * REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
+* RLHF - Reinforcement Learning from Human Feedback
 * RTFM - Read The Freaking Manual
 
 ## S
