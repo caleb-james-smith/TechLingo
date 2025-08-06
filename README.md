@@ -159,6 +159,7 @@ If you want to add something, follow this procedure:
 * OOP - Object-Oriented Programming
 * ORM - Object-Relational Mapping
 * OS - Operating System
+* OSS - Open-Source Software
 
 ## P
 * PC - Personal Computer
