@@ -55,6 +55,7 @@ If you want to add something, follow this procedure:
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
 * API - Application Programming Interface
+* AR - Augmented Reality
 * ARPANET - Advanced Research Projects Agency Network
 * ASCII - American Standard Code for Information Interchange
 * ASIC - Application-Specific Integrated Circuit
@@ -76,6 +77,7 @@ If you want to add something, follow this procedure:
 * CRUD - Create, Read, Update, and Delete
 * CS - Computer Science
 * CSS - Cascading Style Sheets
+* CSV - Comma-Separated Values
 
 ## D
 * DB - Database
@@ -86,16 +88,21 @@ If you want to add something, follow this procedure:
 * DoS - Denial-of-Service
 * DOS - Disk Operating System
 * DP - DisplayPort
+* DRY - Don't Repeat Yourself
 * DSL - Digital Subscriber Line
 
 ## E
 
 ## F
+* FAQ - Frequently Asked Questions
 * FPGA - Field-Programmable Gate Array
+* FSF - Free Software Foundation
 
 ## G
 * GIF - Graphics Interchange Format
 * GNU - GNU's Not Unix! 
+* GNU GPL - GNU General Public License
+* GPL - GNU General Public License
 * GPS - Global Positioning System
 * GPT - Generative Pre-trained Transformer
 * GPU - Graphics Processing Unit
@@ -107,6 +114,7 @@ If you want to add something, follow this procedure:
 * HTML - Hypertext Markup Language
 * HTTP - Hypertext Transfer Protocol
 * HTTPS - Hypertext Transfer Protocol Secure
+* HUD - Head-Up Display
 
 ## I
 * I2C - Inter-Integrated Circuit
@@ -133,17 +141,23 @@ If you want to add something, follow this procedure:
 * LAN - Local Area Network
 * LLC - Limited Liability Company
 * LLM - Large Language Model
+* LTS - Long-Term Support
 
 ## M
+* MDN - Mozilla Developer Network
 * MFA - Multi-Factor Authentication
 * ML - Machine Learning
+* MR - Mixed Reality
 * MVC - Model-View-Controller
 * MVP - Minimum Viable Product
 
 ## N
+* NLP - Natural Language Processing
 * NN - Neural Network
 
 ## O
+* OOP - Object-Oriented Programming
+* ORM - Object-Relational Mapping
 * OS - Operating System
 
 ## P
@@ -161,6 +175,7 @@ If you want to add something, follow this procedure:
 * RDBMS - Relational Database Management System
 * REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
+* RTFM - Read The Freaking Manual
 
 ## S
 * SDK - Software Development Kit
@@ -179,6 +194,7 @@ If you want to add something, follow this procedure:
 * TC - Total Compensation
 * TCP - Transmission Control Protocol
 * TLD - Top-Level Domain
+* TL;DR - Too Long; Didn't Read
 * TLS - Transport Layer Security
 * TTL - Time To Live
 
@@ -191,7 +207,11 @@ If you want to add something, follow this procedure:
 * UX - User Experience
 
 ## V
+* VC - Venture Capital
+* VGA - Video Graphics Array
+* VM - Virtual Machine
 * VPN - Virtual Private Network
+* VR - Virtual Reality
 
 ## W
 * W3C - World Wide Web Consortium
