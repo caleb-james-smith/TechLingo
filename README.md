@@ -83,6 +83,7 @@ If you want to add something, follow this procedure:
 * DB - Database
 * DBMS - Database Management System
 * DDoS - Distributed Denial-of-Service
+* DNN - Deep Neural Network
 * DNS - Domain Name System
 * DOM - Document Object Model
 * DoS - Denial-of-Service
@@ -141,6 +142,7 @@ If you want to add something, follow this procedure:
 * LAN - Local Area Network
 * LLC - Limited Liability Company
 * LLM - Large Language Model
+* LSTM - Long Short-Term Memory
 * LTS - Long-Term Support
 
 ## M
@@ -177,6 +179,7 @@ If you want to add something, follow this procedure:
 * REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
 * RLHF - Reinforcement Learning from Human Feedback
+* RNN - Recurrent Neural Network
 * RTFM - Read The Freaking Manual
 
 ## S
