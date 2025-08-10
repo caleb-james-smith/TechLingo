@@ -100,6 +100,7 @@ If you want to add something, follow this procedure:
 * FSF - Free Software Foundation
 
 ## G
+* GCC - GNU Compiler Collection
 * GIF - Graphics Interchange Format
 * GNU - GNU's Not Unix! 
 * GNU GPL - GNU General Public License
@@ -169,6 +170,7 @@ If you want to add something, follow this procedure:
 * PHP - PHP: Hypertext Preprocessor
 * PNG - Portable Network Graphics
 * PoC - Proof of Concept
+* POSIX - Portable Operating System Interface
 * PR - Pull Request
 
 ## Q
