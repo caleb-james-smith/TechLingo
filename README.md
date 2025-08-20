@@ -129,6 +129,7 @@ If you want to add something, follow this procedure:
 * IP - Internet Protocol
 * ISP - Internet Service Provider
 * IT - Information Technology
+* ITSM - Information Technology Service Management
 
 ## J
 * JPEG - Joint Photographic Experts Group
@@ -168,6 +169,7 @@ If you want to add something, follow this procedure:
 * PC - Personal Computer
 * PDF - Portable Document Format
 * PHP - PHP: Hypertext Preprocessor
+* PM - Product Manager
 * PNG - Portable Network Graphics
 * PoC - Proof of Concept
 * POSIX - Portable Operating System Interface
@@ -195,11 +197,13 @@ If you want to add something, follow this procedure:
 * SSO - Single Sign-On
 * STEM - Science, Technology, Engineering, and Mathematics
 * SVG - Scalable Vector Graphics
+* SW - Software
 * SWE - Software Engineer
 
 ## T
 * TC - Total Compensation
 * TCP - Transmission Control Protocol
+* TDD - Test-Driven Development
 * TLD - Top-Level Domain
 * TL;DR - Too Long; Didn't Read
 * TLS - Transport Layer Security
