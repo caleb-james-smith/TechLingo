@@ -54,6 +54,7 @@ If you want to add something, follow this procedure:
 ## A
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
+* AOT - Ahead-Of-Time
 * API - Application Programming Interface
 * AR - Augmented Reality
 * ARPANET - Advanced Research Projects Agency Network
@@ -69,7 +70,9 @@ If you want to add something, follow this procedure:
 
 ## C
 * CI/CD - Continuous Integration / Continuous Delivery
+* CIL - Common Intermediate Language
 * CLI - Command-Line Interface
+* CLI - Common Language Infrastructure
 * CMS - Content Management System
 * CNN - Convolutional Neural Network
 * COBOL - Common Business-Oriented Language
@@ -127,11 +130,13 @@ If you want to add something, follow this procedure:
 * IO - Input/Output (I/O)
 * IoT - Internet of Things
 * IP - Internet Protocol
+* IR - Intermediate Representation
 * ISP - Internet Service Provider
 * IT - Information Technology
 * ITSM - Information Technology Service Management
 
 ## J
+* JIT - Just-In-Time
 * JPEG - Joint Photographic Experts Group
 * JS - JavaScript
 * JSON - JavaScript Object Notation
