@@ -105,9 +105,11 @@ If you want to add something, follow this procedure:
 * FIFO - First In, First Out
 * FPGA - Field-Programmable Gate Array
 * FSF - Free Software Foundation
+* FTP - File Transfer Protocol
 
 ## G
 * GCC - GNU Compiler Collection
+* GCP - Google Cloud Platform
 * GIF - Graphics Interchange Format
 * GNU - GNU's Not Unix! 
 * GNU GPL - GNU General Public License
@@ -134,7 +136,9 @@ If you want to add something, follow this procedure:
 * IETF - Internet Engineering Task Force
 * IO - Input/Output (I/O)
 * IoT - Internet of Things
+* IP - Intellectual Property
 * IP - Internet Protocol
+* IPO - Initial Public Offering
 * IR - Intermediate Representation
 * ISP - Internet Service Provider
 * IT - Information Technology
@@ -152,6 +156,7 @@ If you want to add something, follow this procedure:
 
 ## L
 * LAN - Local Area Network
+* LDAP - Lightweight Directory Access Protocol
 * LIFO - Last In, First Out
 * LLC - Limited Liability Company
 * LLM - Large Language Model
@@ -164,6 +169,7 @@ If you want to add something, follow this procedure:
 * MFA - Multi-Factor Authentication
 * ML - Machine Learning
 * MR - Mixed Reality
+* MS - Microsoft
 * MVC - Model-View-Controller
 * MVP - Minimum Viable Product
 
@@ -205,6 +211,7 @@ If you want to add something, follow this procedure:
 * SDLC - Systems Development Life Cycle
 * sed - stream editor
 * SEO - Search Engine Optimization
+* SFTP - Secure File Transfer Protocol
 * SQL - Structured Query Language
 * SSD - Solid-State Drive
 * SSH - Secure Shell
@@ -242,6 +249,7 @@ If you want to add something, follow this procedure:
 ## W
 * W3C - World Wide Web Consortium
 * WAN - Wide Area Network
+* Wasm - WebAssembly
 * WHATWG - Web Hypertext Application Technology Working Group
 * WSL - Windows Subsystem for Linux
 * WWW - World Wide Web
