@@ -69,6 +69,7 @@ If you want to add something, follow this procedure:
 * BSD - Berkeley Software Distribution
 
 ## C
+* cd - change directory
 * CI/CD - Continuous Integration / Continuous Delivery
 * CIL - Common Intermediate Language
 * CLI - Command-Line Interface
@@ -111,6 +112,7 @@ If you want to add something, follow this procedure:
 * GPS - Global Positioning System
 * GPT - Generative Pre-trained Transformer
 * GPU - Graphics Processing Unit
+* grep - g/re/p (global regular expression search and print)
 * GUI - Graphical User Interface
 
 ## H
@@ -149,6 +151,7 @@ If you want to add something, follow this procedure:
 * LAN - Local Area Network
 * LLC - Limited Liability Company
 * LLM - Large Language Model
+* LLVM - Low Level Virtual Machine
 * LSTM - Long Short-Term Memory
 * LTS - Long-Term Support
 
@@ -179,6 +182,7 @@ If you want to add something, follow this procedure:
 * PoC - Proof of Concept
 * POSIX - Portable Operating System Interface
 * PR - Pull Request
+* pwd - print working directory
 
 ## Q
 
@@ -194,6 +198,7 @@ If you want to add something, follow this procedure:
 ## S
 * SDK - Software Development Kit
 * SDLC - Systems Development Life Cycle
+* sed - stream editor
 * SEO - Search Engine Optimization
 * SQL - Structured Query Language
 * SSD - Solid-State Drive
