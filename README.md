@@ -70,6 +70,7 @@ If you want to add something, follow this procedure:
 
 ## C
 * cd - change directory
+* CD - Compact Disc
 * CI/CD - Continuous Integration / Continuous Delivery
 * CIL - Common Intermediate Language
 * CLI - Command-Line Interface
@@ -95,11 +96,13 @@ If you want to add something, follow this procedure:
 * DP - DisplayPort
 * DRY - Don't Repeat Yourself
 * DSL - Digital Subscriber Line
+* DVD - Digital Versatile Disc
 
 ## E
 
 ## F
 * FAQ - Frequently Asked Questions
+* FIFO - First In, First Out
 * FPGA - Field-Programmable Gate Array
 * FSF - Free Software Foundation
 
@@ -149,6 +152,7 @@ If you want to add something, follow this procedure:
 
 ## L
 * LAN - Local Area Network
+* LIFO - Last In, First Out
 * LLC - Limited Liability Company
 * LLM - Large Language Model
 * LLVM - Low Level Virtual Machine
@@ -177,6 +181,7 @@ If you want to add something, follow this procedure:
 * PC - Personal Computer
 * PDF - Portable Document Format
 * PHP - PHP: Hypertext Preprocessor
+* PLC - Programmable Logic Controller
 * PM - Product Manager
 * PNG - Portable Network Graphics
 * PoC - Proof of Concept
