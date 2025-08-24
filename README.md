@@ -54,6 +54,7 @@ If you want to add something, follow this procedure:
 ## A
 * AI - Artificial Intelligence
 * ANN - Artificial Neural Network
+* AOT - Ahead-Of-Time
 * API - Application Programming Interface
 * AR - Augmented Reality
 * ARPANET - Advanced Research Projects Agency Network
@@ -68,8 +69,12 @@ If you want to add something, follow this procedure:
 * BSD - Berkeley Software Distribution
 
 ## C
+* cd - change directory
+* CD - Compact Disc
 * CI/CD - Continuous Integration / Continuous Delivery
+* CIL - Common Intermediate Language
 * CLI - Command-Line Interface
+* CLI - Common Language Infrastructure
 * CMS - Content Management System
 * CNN - Convolutional Neural Network
 * COBOL - Common Business-Oriented Language
@@ -83,6 +88,7 @@ If you want to add something, follow this procedure:
 * DB - Database
 * DBMS - Database Management System
 * DDoS - Distributed Denial-of-Service
+* DNN - Deep Neural Network
 * DNS - Domain Name System
 * DOM - Document Object Model
 * DoS - Denial-of-Service
@@ -90,15 +96,23 @@ If you want to add something, follow this procedure:
 * DP - DisplayPort
 * DRY - Don't Repeat Yourself
 * DSL - Digital Subscriber Line
+* DVD - Digital Versatile Disc
 
 ## E
+* ed - editor
+* emacs - editor macros
+* ex - extended
 
 ## F
 * FAQ - Frequently Asked Questions
+* FIFO - First In, First Out
 * FPGA - Field-Programmable Gate Array
 * FSF - Free Software Foundation
+* FTP - File Transfer Protocol
 
 ## G
+* GCC - GNU Compiler Collection
+* GCP - Google Cloud Platform
 * GIF - Graphics Interchange Format
 * GNU - GNU's Not Unix! 
 * GNU GPL - GNU General Public License
@@ -106,6 +120,7 @@ If you want to add something, follow this procedure:
 * GPS - Global Positioning System
 * GPT - Generative Pre-trained Transformer
 * GPU - Graphics Processing Unit
+* grep - g/re/p (global regular expression search and print)
 * GUI - Graphical User Interface
 
 ## H
@@ -121,14 +136,20 @@ If you want to add something, follow this procedure:
 * IANA - Internet Assigned Numbers Authority
 * ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
+* IEEE - Institute of Electrical and Electronics Engineers
 * IETF - Internet Engineering Task Force
 * IO - Input/Output (I/O)
 * IoT - Internet of Things
+* IP - Intellectual Property
 * IP - Internet Protocol
+* IPO - Initial Public Offering
+* IR - Intermediate Representation
 * ISP - Internet Service Provider
 * IT - Information Technology
+* ITSM - Information Technology Service Management
 
 ## J
+* JIT - Just-In-Time
 * JPEG - Joint Photographic Experts Group
 * JS - JavaScript
 * JSON - JavaScript Object Notation
@@ -139,8 +160,12 @@ If you want to add something, follow this procedure:
 
 ## L
 * LAN - Local Area Network
+* LDAP - Lightweight Directory Access Protocol
+* LIFO - Last In, First Out
 * LLC - Limited Liability Company
 * LLM - Large Language Model
+* LLVM - Low Level Virtual Machine
+* LSTM - Long Short-Term Memory
 * LTS - Long-Term Support
 
 ## M
@@ -148,6 +173,7 @@ If you want to add something, follow this procedure:
 * MFA - Multi-Factor Authentication
 * ML - Machine Learning
 * MR - Mixed Reality
+* MS - Microsoft
 * MVC - Model-View-Controller
 * MVP - Minimum Viable Product
 
@@ -165,35 +191,48 @@ If you want to add something, follow this procedure:
 * PC - Personal Computer
 * PDF - Portable Document Format
 * PHP - PHP: Hypertext Preprocessor
+* PLC - Programmable Logic Controller
+* PM - Product Manager
 * PNG - Portable Network Graphics
 * PoC - Proof of Concept
+* POSIX - Portable Operating System Interface
 * PR - Pull Request
+* pwd - print working directory
 
 ## Q
+* qed - quick editor
 
 ## R
 * RAM - Random-Access Memory
 * RDBMS - Relational Database Management System
 * REPL - Read-Eval-Print Loop
 * REST - Representational State Transfer
+* RLHF - Reinforcement Learning from Human Feedback
+* RNN - Recurrent Neural Network
 * RTFM - Read The Freaking Manual
 
 ## S
 * SDK - Software Development Kit
 * SDLC - Systems Development Life Cycle
+* sed - stream editor
 * SEO - Search Engine Optimization
+* SFTP - Secure File Transfer Protocol
 * SQL - Structured Query Language
 * SSD - Solid-State Drive
 * SSH - Secure Shell
 * SSL - Secure Sockets Layer
 * SSO - Single Sign-On
 * STEM - Science, Technology, Engineering, and Mathematics
+* Stevie - ST Editor for VI Enthusiasts
+* SUS - Single UNIX Specification
 * SVG - Scalable Vector Graphics
+* SW - Software
 * SWE - Software Engineer
 
 ## T
 * TC - Total Compensation
 * TCP - Transmission Control Protocol
+* TDD - Test-Driven Development
 * TLD - Top-Level Domain
 * TL;DR - Too Long; Didn't Read
 * TLS - Transport Layer Security
@@ -210,6 +249,8 @@ If you want to add something, follow this procedure:
 ## V
 * VC - Venture Capital
 * VGA - Video Graphics Array
+* vi - visual
+* vim - vi improved
 * VM - Virtual Machine
 * VPN - Virtual Private Network
 * VR - Virtual Reality
@@ -217,6 +258,7 @@ If you want to add something, follow this procedure:
 ## W
 * W3C - World Wide Web Consortium
 * WAN - Wide Area Network
+* Wasm - WebAssembly
 * WHATWG - Web Hypertext Application Technology Working Group
 * WSL - Windows Subsystem for Linux
 * WWW - World Wide Web
