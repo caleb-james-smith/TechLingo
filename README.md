@@ -99,6 +99,9 @@ If you want to add something, follow this procedure:
 * DVD - Digital Versatile Disc
 
 ## E
+* ed - editor
+* emacs - editor macros
+* ex - extended
 
 ## F
 * FAQ - Frequently Asked Questions
@@ -133,6 +136,7 @@ If you want to add something, follow this procedure:
 * IANA - Internet Assigned Numbers Authority
 * ICANN - Internet Corporation for Assigned Names and Numbers
 * IDE - Integrated Development Environment
+* IEEE - Institute of Electrical and Electronics Engineers
 * IETF - Internet Engineering Task Force
 * IO - Input/Output (I/O)
 * IoT - Internet of Things
@@ -196,6 +200,7 @@ If you want to add something, follow this procedure:
 * pwd - print working directory
 
 ## Q
+* qed - quick editor
 
 ## R
 * RAM - Random-Access Memory
@@ -218,6 +223,8 @@ If you want to add something, follow this procedure:
 * SSL - Secure Sockets Layer
 * SSO - Single Sign-On
 * STEM - Science, Technology, Engineering, and Mathematics
+* Stevie - ST Editor for VI Enthusiasts
+* SUS - Single UNIX Specification
 * SVG - Scalable Vector Graphics
 * SW - Software
 * SWE - Software Engineer
@@ -242,6 +249,8 @@ If you want to add something, follow this procedure:
 ## V
 * VC - Venture Capital
 * VGA - Video Graphics Array
+* vi - visual
+* vim - vi improved
 * VM - Virtual Machine
 * VPN - Virtual Private Network
 * VR - Virtual Reality
