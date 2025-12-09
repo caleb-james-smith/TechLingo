@@ -126,6 +126,7 @@ If you want to add something, follow this procedure:
 ## H
 * HDD - Hard Disk Drive
 * HDMI - High-Definition Multimedia Interface
+* HPC - High-Performance Computing
 * HTML - Hypertext Markup Language
 * HTTP - Hypertext Transfer Protocol
 * HTTPS - Hypertext Transfer Protocol Secure
@@ -154,6 +155,7 @@ If you want to add something, follow this procedure:
 * JS - JavaScript
 * JSON - JavaScript Object Notation
 * JSX - JavaScript XML
+* JVM - Java Virtual Machine
 * JWT - JSON Web Token
 
 ## K
